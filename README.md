@@ -52,7 +52,7 @@ Replace <movie_title> and :id with the movie title and movie ID you're intereste
 
 We have unit tests for important functionalities. Run the tests with the following command:
 
-    `go test ./...`
+    `go test ./test/movie`
 
 ---
 
@@ -79,6 +79,3 @@ Image 1) API Status
 <img width="685" alt="image" src="https://github.com/jameschandra/golang-omdb-api/assets/53634665/47a4eee1-8c0e-4c74-bcd0-e5357b3a64a0">
 
 Image 2) API Curl Response
-
-
-
