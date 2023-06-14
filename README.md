@@ -14,9 +14,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 Ensure you have the following installed on your system:
 
-- Go 1.16 or later
+- Go 1.20 or later
 - Gin framework
-- An IDE or text editor of your choice
+- Godotenv
+- An IDE or terminal
 
 ### Installation
 
@@ -26,7 +27,7 @@ Ensure you have the following installed on your system:
 
 2. Navigate to the project directory.
 
-   cd OMDBSearch
+   cd `<project-dir>`
 
 3. Install the necessary go dependencies.
 
@@ -34,7 +35,7 @@ Ensure you have the following installed on your system:
 
 4. Run the server locally.
 
-   go run cmd/main.go
+   go run cmd/server/main.go
 
 ---
 
