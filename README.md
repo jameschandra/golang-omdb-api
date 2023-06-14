@@ -66,3 +66,18 @@ Unit tests for critical files: https://go.dev/doc/tutorial/add-a-test
 Implementation of Clean Architecture: https://medium.com/@MTrax/clean-architecture-in-golang-a-practical-approach-to-building-maintainable-software-19e4d16c635b
 
 Environment variables for API credentials: -
+
+---
+
+## Images
+
+<img width="685" alt="image" src="https://github.com/jameschandra/golang-omdb-api/assets/53634665/fcd62e63-1e41-46c0-8d73-44f8db161e42">
+
+Image 1) API Status
+
+<img width="685" alt="image" src="https://github.com/jameschandra/golang-omdb-api/assets/53634665/47a4eee1-8c0e-4c74-bcd0-e5357b3a64a0">
+
+Image 2) API Curl Response
+
+
+
