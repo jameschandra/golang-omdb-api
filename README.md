@@ -41,7 +41,7 @@ Ensure you have the following installed on your system:
 
 ## Usage
 
-- Search for a movie: `GET /search?title=<movie_title>`
+- Search for a movie: `GET /search?s=<movie_title>`
 - Get a movie's details: `GET /detail/:id`
 
 Replace <movie_title> and :id with the movie title and movie ID you're interested in, respectively.
